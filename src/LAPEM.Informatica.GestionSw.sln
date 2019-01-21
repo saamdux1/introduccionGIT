@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicios", "Servicios", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{F6468CC1-18B3-44A5-B100-522163A5FF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAPEM.Informatica.GestionSw.Presentacion", "..\LAPEM.Informatica.GestionSw.Presentacion\LAPEM.Informatica.GestionSw.Presentacion.csproj", "{B2960283-AC7F-44F4-830F-018F5ECAD883}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAPEM.Informatica.GestionSw.Presentacion", "LAPEM.Informatica.GestionSw.Presentacion\LAPEM.Informatica.GestionSw.Presentacion.csproj", "{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B2960283-AC7F-44F4-830F-018F5ECAD883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2960283-AC7F-44F4-830F-018F5ECAD883}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2960283-AC7F-44F4-830F-018F5ECAD883}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2960283-AC7F-44F4-830F-018F5ECAD883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B2960283-AC7F-44F4-830F-018F5ECAD883} = {F6468CC1-18B3-44A5-B100-522163A5FF75}
+		{4F084B3F-67B9-40B7-A32D-5E3D02C4EAE4} = {F6468CC1-18B3-44A5-B100-522163A5FF75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF79A1CB-BF24-492B-9002-DDF2850B6CB5}
