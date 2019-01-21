@@ -133,6 +133,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\Css\bootstrap-grid.css" />
+    <Content Include="app\Css\bootstrap-grid.min.css" />
+    <Content Include="app\Css\bootstrap-reboot.css" />
+    <Content Include="app\Css\bootstrap-reboot.min.css" />
+    <Content Include="app\Css\bootstrap.css" />
+    <Content Include="app\Css\bootstrap.min.css" />
+    <Content Include="app\Scripts\bootstrap.bundle.js" />
+    <Content Include="app\Scripts\bootstrap.bundle.min.js" />
+    <Content Include="app\Scripts\bootstrap.js" />
+    <Content Include="app\Scripts\bootstrap.min.js" />
+    <Content Include="app\Scripts\jquery-3.3.1.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -154,6 +165,9 @@
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="app\Controllers\" />
+    <Folder Include="app\Fonts\" />
+    <Folder Include="app\Images\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
@@ -161,6 +175,16 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="app\Scripts\bootstrap.bundle.js.map" />
+    <Content Include="app\Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="app\Scripts\bootstrap.js.map" />
+    <Content Include="app\Scripts\bootstrap.min.js.map" />
+    <Content Include="app\Css\bootstrap-grid.css.map" />
+    <Content Include="app\Css\bootstrap-grid.min.css.map" />
+    <Content Include="app\Css\bootstrap-reboot.css.map" />
+    <Content Include="app\Css\bootstrap-reboot.min.css.map" />
+    <Content Include="app\Css\bootstrap.css.map" />
+    <Content Include="app\Css\bootstrap.min.css.map" />
     <None Include="packages.config" />
   </ItemGroup>
   <PropertyGroup>
